@@ -1,0 +1,19 @@
+name: Teleportation
+version: 1.0-SNAPSHOT
+main: com.logan.teleportation.teleportation.Teleportation
+api-version: 1.17
+authors: [ YucongZhang ]
+commands:
+
+
+  t:
+    set:
+      location1:
+      location2:
+      location3:
+      home:
+    to:
+      location1:
+      location2:
+      location3:
+      home:
